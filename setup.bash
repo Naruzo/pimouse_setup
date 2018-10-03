@@ -9,4 +9,4 @@ cd /home/ubuntu/RaspberryPiMouse/src/drivers/
 sleep 1
 chmod 666 /dev/rt*
 
-ecjp 0 > /dev/rtmotoren0
+echo 0 > /dev/rtmotoren0
